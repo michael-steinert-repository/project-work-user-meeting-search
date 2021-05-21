@@ -19,6 +19,16 @@ http://localhost:8083/user-meeting-search/
 | GET | /search-meeting/{searchQuery} | Returns all existing Meetings that match the Search Query |
 | GET | /fetch-all-users | Returns all existing Users |
 
+#### OpenAPI v3
+The following Link shows the Documentation in the OpenAPI Standard:
+
+http://localhost:8083/v3/api-docs.yaml
+
+#### Swagger UI
+The following Link shows the Documentation in the Swagger UI:
+
+http://localhost:8083/swagger-ui.html
+
 ### Jib Maven Plugin
 
 *Jib is a deamonless Maven Plugin for building Docker and OCI Images for Java Applications.*
